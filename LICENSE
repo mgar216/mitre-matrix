@@ -1,0 +1,25 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2026 SectorShield. All rights reserved.
+
+This software and its source code are the proprietary and confidential
+property of the copyright holder. Unauthorized copying, modification,
+distribution, decompilation, reverse engineering, or any form of
+reproduction of this software, in whole or in part, is strictly
+prohibited without the express written permission of the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+NOTICE: This application references data structures from MITRE ATT&CK® and
+MITRE D3FEND™ frameworks, which are provided by The MITRE Corporation under
+their respective terms. MITRE ATT&CK® and MITRE D3FEND™ are trademarks of
+The MITRE Corporation. This application is an independent work and is not
+affiliated with, endorsed by, or sponsored by The MITRE Corporation.
+
+For licensing inquiries, contact the copyright holder.

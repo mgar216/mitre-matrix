@@ -1,0 +1,5 @@
+# Keep unobfuscated source LOCAL ONLY — never push
+SOURCE_DO_NOT_UPLOAD.html
+build_protected.js
+*.log
+.DS_Store
